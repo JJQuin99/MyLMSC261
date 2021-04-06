@@ -1,0 +1,5 @@
+# Band Site Markdown
+  at first we had a hard time trying to create the branches and use them all together but we got the hang of it pretty quick. There were some times where there were conflicts with merging changes in the branch to the main but we figured out it was as simple as selecting which lines you wanted to actually keep and what lines you were replacing. adding images as initally not bad but we only figured out how to add one (which was my gif of vibe cat) one of my "band mates" added a sound file at the bottom and then we were called back to the main room of the zoom call. overall the troubleshooting was hard but we got through it.
+  ![alt text][logo]
+
+[logo]: https://media.tenor.com/images/c2f0ea06e888964cddbf22c39e6d6f29/tenor.gif "Vibe cat"
